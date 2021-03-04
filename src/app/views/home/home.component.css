@@ -1,0 +1,36 @@
+.house-info {
+  margin-top: 20px;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.container-home {
+  display: flex;
+  justify-content: center;
+}
+
+.house-title {
+  font-size: 15px;
+  margin-left: 30px;
+  height: 20px;
+}
+h1 {
+  font-size: 20px;
+  margin: 0;
+  display: flex;
+}
+.titel-container {
+  margin-top: 10px;
+  display: flex;
+  justify-content: flex-start;
+}
+img {
+  height: 338px;
+  width: 468px;
+  
+}
+.container{
+  margin-top:70px;
+}

@@ -1,0 +1,12 @@
+<div class="header">
+    <div class="container">
+
+        <a *ngFor="let headerItem of headerList" class="header-item" [routerLink]="headerItem.url">
+            <div class="text-header">
+                {{headerItem.name}}
+
+            </div>
+        </a>
+    </div>
+
+</div>

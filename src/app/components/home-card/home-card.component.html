@@ -1,0 +1,15 @@
+<a routerLink="/home" [queryParams]="{house_id: house.id}">
+    <div class="card">
+        <div class="card-titel">
+            {{house.name}}
+        </div>
+        <div class="card-image">
+            <img [src]="house.mainImage" alt={{house.name}}>
+        </div>
+        <div class="card-text">
+            {{house.shortText}}
+        </div>
+    </div>
+</a>
+
+

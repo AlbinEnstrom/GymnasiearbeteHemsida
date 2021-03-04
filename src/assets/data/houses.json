@@ -1,0 +1,67 @@
+{
+    "houseList": [
+        {
+            "id":1,
+            "name":"Attefallshus 30 kvm Bängt",
+            "mainImage":"/assets/images/Hus1-framsida-GA.png",
+            "imageList": [
+                "Hus1-framsida-GA.png",
+                "Hus1-baksida-GA.png",
+                "Hus1-planlösning-GA.png",
+                "Hus1-planlösning-loft-GA.png"
+            ],
+            "shortText": "Snyggt hus med en modern design, vår favorit!",
+            "longText": "Måtten på boytan blir då (3,5*7,25) + (2*2) vilket blir 29,375kvm för boytan. Loften som tillkommer räknas inte till boytan likadant såsom som en källare inte skulle räknas till boytan. Att använda loft för att få ihop planlösningen är viktigt i attefallshus. </br> Loftet används för sovplats och är öppen ner mot den öppna ytan mellan toaletten och köket. Detta gjordes för att öppna upp och göra det lilla attefallshuset mer luftigt. Loftet låter ljus komma in genom ett övre fönster för att igen skapa en mer luftig länsla. Det är också därför vi har hoppat över att sätta upp för mycket väggar och förvaring i gemenskaps arean. Planlösningen för loftet kan ses nedan.  Då det inte finns något universellt tecken för stege på planlösningar har stegen ritats ut som en trappa. Toaletten har ingen anknytning till loftet och är därför inte med i planlösningen på det planet. </br> Efter planlösningarna var gjorda kommer nästa steg vilket är visualiseringen av ytterskalet. Från botten till takets högsta punkt får endast vara 4 meter. Med detta i tanke bestämde vi oss för att göra ett snedtak för att undvika att formen skulle bli för kubisk. Utsidan är inspirerad av arkitekts stilen “Mid Century Modern”. Stilen är karaktäriserad av kantiga tak och raka siluetter detta är också den vanligaste stilen på attefallshus idag. Antagligen är den så pass populär på grund av att den ger känslan av nybyggt och fräscht. Från vyn på den vänstra bilden ser attefallhuset väldigt kubiskt ut vilket knappt går att komma ifrån när man jobbar med så små hus och ytor. Linjerna som är synliga över dörren på den högra delen är en produkt av den lite krångliga funktionen på sketchup som heter “make component” vilket av någon anledning skapar väldigt visuella linjer.    " 
+            
+        },
+        {
+            "id":2,
+            "name":"Attefallshus 30 kvm Jonatan",
+            "mainImage":"/assets/images/Hus2-framsida-GA.png",
+            "imageList": [
+                "Hus2-framsida-GA.png",
+                "Hus2-baksida-GA.png",
+                "Hus2-planlösning1-GA.png",
+                "Hus2-planlösning2-GA.png",
+                "Hus2-planlösning3-GA.png"
+            ],
+            "shortText":"Hus med källare!",
+            "longText":"Då boytan ska vara max 30kvm så väljer vi alltid att utnyttja dem. Bilden visar måtten på det andra attefallshuset som är 5 x 6 meter. Fäljande process är av det andra attefallshuset. Dessa mått är vanliga på attefallshus då det är enklare att använda ytan effektivt om den är formad som en rektangel. Tanken är att använda sig av en källare som inte räknas in i boytan för just denna modell. <br>Då detta en bostad behövs även en sov yta och i detta hus så har vi en Källarplan som fungerar som ett sovrum. När de kommer till källare så är de helt lagligt så länge man håller sig till måtten på huvudplanen. Vi har en säng och en trappa som leder upp till markytan, ett problemen med att sova i en källare är att de kan vara tråkigt att sova och vara där då de är svårt att få naturligt ljus. <br> Utsidan av Attefalls huset har som konsekvens att den till utsidan ser väldigt vardaglig ut. Fönster på 2 av sidorna behövdes väljas bort på grund av placeringen av toalett och kök. Den grå delen är källarplanet som kommer vara under marknivå.       "
+            
+        },
+        {
+            "id":3,
+            "name":"Attefallshus 30 kvm Karl",
+            "mainImage":"/assets/images/Hus3-framsida-GA.png",
+            "imageList": [
+                "Hus3-framsida-GA.png",
+                "Hus3-baksida-GA.png",
+                "Hus3-framsida2-GA.png",
+                "Hus3-planlösning-GA.png"
+            ],
+            "shortText":"Modernt sommarhus av trä. ",
+            "longText":"Boytan består av tre rektanglar med storlekarna 4*2.5m, detta resulterar i ett hus med 3 * 10kvm. <br>Eftersom att huset endast har ett plan kan det bli lite trångt om plats, därför anses detta hus vara perfekt som en sommarstuga eller ett hus för studenter. <br> Huset har dessutom en altan vilket gör detta huset till ett perfekt grill-ställe! "
+
+            
+        },
+        {
+            "id":4,
+            "name":"Attefallshus 30 kvm Eva",
+            "mainImage":"https://www.polhus.se/images/products/3233-attefallshus-30-kvm-eva-1.jpg",
+            "imageList": [
+                "Hus4-framsida-GA.jpg",
+                "Hus4-ovanifrån-GA.jpg",
+                "Hus4-ovanifrånloft-GA.jpg",
+                "Hus4-insida-GA.jpg",
+                "Hus4-kök-GA.jpg"
+            ],
+            "shortText": "Vackert sommarhus!",
+            "longText": "Eva är ett vackert och stort Attefallshus på 30 kvadratmeter. Den stora glasytan ger ett härligt ljusinsläpp till det stora rummet. Vid taknocken lyfter det rektangulära fönstret fram den väl tilltagna takhöjden som ger rummet dess speciella karaktär och luftiga intryck. Allrummet ligger centralt i huset och härifrån kan du klättra upp till det väl tilltagna sovloftet med plats för två sängar.<br> Eva levereras obehandlat och utan takbeläggning så att du kan välja de material och ytbehandlingar som passar dig. Huset är en byggsats som du själv monterar, alla delar ingår självklar i leveransen. Huset knuttimras – ett klassikt och välbeprövat sätt att bygga hus. Efter att ha studerat manualen, går det relativt enkelt att knuttimra och är något även de utan tidigare byggerfarenheter klarar. Skulle du har några funderingar eller svårigheter längs vägen - kan du alltid ringa oss. <br>Eva är ett vackert hus med plats för många. Du väljer själv hur du vill nyttja rummen på bottenvåningen, kanske vill du hellre ha ett större kök än ett till sovrum. Möjligheterna för ett bekvämt compact living är många! "
+            
+            
+        }
+        
+        
+        
+    ]
+}

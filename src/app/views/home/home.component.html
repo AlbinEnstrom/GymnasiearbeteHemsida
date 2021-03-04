@@ -1,0 +1,20 @@
+<div class="container">
+
+    <div *ngIf="house">
+        <carousel [cellsToShow]="1" [dots]="true" [loop]="true" [height]="400">
+            <div class="carousel-cell" *ngFor="let imgSrc of house.imageList">
+                <img [src]="'/assets/images/'+imgSrc" alt="">
+            </div>
+        </carousel>
+        <div class="titel-container">
+            <div class="house-title">
+                <h1>{{house.name}}</h1>
+            </div>
+        </div>
+        <div class="container-home">
+            <div class="house-info">
+                <p [innerHTML]="house.longText"></p>
+            </div>
+        </div>
+    </div>
+</div>
